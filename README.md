@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Peter20130402, Also known as Peter
-- 👀 I’m interested in games and windows 11 apps.
+- 👋 Hi, I’m @Peter20130402, Also known as PeterMaZep
+- 👀 I’m interested in games such as Minecraft. I also getting some Windows 11 official features early, even if I have unsupported hardware.
 - 🌱 I’m currently learning python
 - 💞️<For future collaboration purposes>
 - 📫 How to reach me: Just comment on any copied projects
